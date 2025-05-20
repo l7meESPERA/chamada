@@ -1,7 +1,3 @@
-frutas = ["uva",  "banana", "laranja"]
-for frutas in frutas:
-    print("Eu gosto de {frutas}")
-
 aluno = ["Ana Júlia", "Alexandre", "Asafe", "Brayan"]
 numero_chamada = 1
 
